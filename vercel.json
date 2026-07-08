@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/start",
+      "destination": "https://mcp.mydigitalemployee.work/demo/start",
+      "permanent": false
+    }
+  ]
+}
